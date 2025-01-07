@@ -14,4 +14,4 @@ services:
    volumes:
     - ./files/server.py:/usr/src/server.py
    ports:
-    - "8000:8000"
+    - "8001:8000"
